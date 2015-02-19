@@ -37,7 +37,9 @@ Special blocks (required for recipes):
 
 ## License
 
-For both textures and code by GaboXandre: [WTFPL](http://www.wtfpl.net/)
+Tron Tools textures by Jericho: CC BY-SA
+Other textures by GaboXandre: CC BY-SA
+(Crapy) Code: [WTFPL](http://www.wtfpl.net/)
 
 
 ## Note
