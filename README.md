@@ -6,6 +6,8 @@ Yet another Tron-inspired mod.
 
 *Special thanks to [Amaz1](https://github.com/Amaz1) and [foot-on-teh-hill](https://github.com/foot-on-teh-hill) for encouragement, advise and inspiration. Also to [nanepiwo](https://github.com/nanepiwo) for his million ideas.*
 
+![screenshot](http://i.imgur.com/yWSccRl.png?1)
+
 ## Description
 
 ### Building Blocks
